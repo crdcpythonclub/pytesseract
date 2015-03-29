@@ -36,8 +36,7 @@ Prerequisites:
   isn't the case, for example because tesseract isn't in your PATH, you will
   have to change the "tesseract_cmd" variable at the top of 'tesseract.py'.
   Under Debian/Ubuntu you can use the package "tesseract-ocr".
-   
-```
+
 
 Installing from source:   
 ```
