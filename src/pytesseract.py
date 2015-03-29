@@ -59,10 +59,8 @@ CONTRIBUTERS:
 # CHANGE THIS IF TESSERACT IS NOT IN YOUR PATH, OR IS NAMED DIFFERENTLY
 tesseract_cmd = 'tesseract'
 
-try:
-    import Image
-except ImportError:
-    from PIL import Image
+
+from PIL import Image
 import subprocess
 import sys
 import tempfile
