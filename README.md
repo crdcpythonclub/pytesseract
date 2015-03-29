@@ -1,5 +1,5 @@
-*This is a forked repo from original Python-tesseract written by Matthias Lee*
-*BUG FIXING and API changes in this repo*
+*This is a forked repo from original Python-tesseract written by Matthias Lee *
+*for BUG FIXING*
 
 # Python-tesseract
 
